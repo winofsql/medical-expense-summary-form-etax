@@ -18,3 +18,5 @@
 ![image](https://user-images.githubusercontent.com/1501327/151666070-8f259032-42f6-46c8-8055-39b16e2e6ff9.png)
 
 # 医療費集計フォーム
+
+![image](https://user-images.githubusercontent.com/1501327/151666229-c81fba8a-9061-4bb1-a3a9-b0f75105548c.png)
