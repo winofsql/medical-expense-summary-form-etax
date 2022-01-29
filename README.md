@@ -19,4 +19,4 @@
 
 # 医療費集計フォーム
 
-![image](https://user-images.githubusercontent.com/1501327/151666229-c81fba8a-9061-4bb1-a3a9-b0f75105548c.png)
+![image](https://user-images.githubusercontent.com/1501327/151666242-2e6d1443-eb75-4512-88f5-61ef6e57afcb.png)
