@@ -9,7 +9,7 @@
 
 [令和３年分のスマホ申告に関する手引き等](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tebiki/2021/kisairei/sp/index.htm)
 
-## パソコンとスマホでe-Tax！　マイナンバーカードをスマホで読み取り
+## [パソコンとスマホでe-Tax！　マイナンバーカードをスマホで読み取り](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/info-etax.htm)
 
 令和3年分確定申告（令和4年1月～）から、パソコンで申告書を作成される方も、\
 スマホのアプリ（マイナポータルアプリ）でパソコン上に表示された２次元バーコード（QRコード）\
