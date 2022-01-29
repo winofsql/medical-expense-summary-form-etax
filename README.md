@@ -6,3 +6,5 @@
 上記二つは違うパスですが、FC /B の結果【FC: 相違点は検出されませんでした】
 
 [令和3年分 確定申告に関する情報の総合窓口 確定申告特集](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/iryouhi-download.htm)
+
+[令和３年分のスマホ申告に関する手引き等](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tebiki/2021/kisairei/sp/index.htm)
