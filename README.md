@@ -1,5 +1,8 @@
 # medical-expense-summary-form
 
+去年より比べて、Google Chrome に [マイナポータルアプリ](https://chrome.google.com/webstore/detail/%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%ABap/fjjibalalngebiaophebgkkohaaggphf?hl=ja)\
+が必要でした
+
 [医療費集計フォームのダウンロード](https://www.keisan.nta.go.jp/r3/syotoku/img/template/iryouhi_form_v3.xlsx)\
 [医療費集計フォームのダウンロード](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/iryouhi_form_v3.xlsx)
 
