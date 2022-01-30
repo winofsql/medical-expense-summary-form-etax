@@ -1,5 +1,8 @@
 # medical-expense-summary-form
 
+[事前準備セットアップのダウンロード](事前準備セットアップのダウンロード)\
+ ※ 去年やってますが、バージョンが少しアップしてました
+
 去年より比べて、Google Chrome に [マイナポータルアプリ](https://chrome.google.com/webstore/detail/%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%ABap/fjjibalalngebiaophebgkkohaaggphf?hl=ja) が必要でした
 ![image](https://user-images.githubusercontent.com/1501327/151694000-0c252eaf-defb-40a4-8ca8-6a7800989344.png)
 
