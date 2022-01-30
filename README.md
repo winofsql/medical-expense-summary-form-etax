@@ -3,6 +3,7 @@
 去年より比べて、Google Chrome に [マイナポータルアプリ](https://chrome.google.com/webstore/detail/%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%ABap/fjjibalalngebiaophebgkkohaaggphf?hl=ja) が必要でした
 ![image](https://user-images.githubusercontent.com/1501327/151694000-0c252eaf-defb-40a4-8ca8-6a7800989344.png)
 
+[e-Tax・作成コーナーヘルプデスクへのお問い合わせTOP10](https://www.e-tax.nta.go.jp/toiawase/qatop10.htm)
 
 [医療費集計フォームのダウンロード](https://www.keisan.nta.go.jp/r3/syotoku/img/template/iryouhi_form_v3.xlsx)\
 [医療費集計フォームのダウンロード](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/iryouhi_form_v3.xlsx)
