@@ -1,6 +1,6 @@
 # medical-expense-summary-form
 
-[事前準備セットアップのダウンロード](事前準備セットアップのダウンロード)\
+[事前準備セットアップのダウンロード](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/info-kakutei-mnc.htm)\
  ※ 去年やってますが、バージョンが少しアップしてました
 
 去年より比べて、Google Chrome に [マイナポータルアプリ](https://chrome.google.com/webstore/detail/%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%ABap/fjjibalalngebiaophebgkkohaaggphf?hl=ja) が必要でした
