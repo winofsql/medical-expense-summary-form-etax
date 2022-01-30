@@ -4,7 +4,6 @@
  ※ 去年やってますが、バージョンが少しアップしてました
 
 去年より比べて、Google Chrome に [マイナポータルアプリ](https://chrome.google.com/webstore/detail/%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%ABap/fjjibalalngebiaophebgkkohaaggphf?hl=ja) が必要でした
-![image](https://user-images.githubusercontent.com/1501327/151694000-0c252eaf-defb-40a4-8ca8-6a7800989344.png)
 ![image](https://user-images.githubusercontent.com/1501327/151697302-03ba016b-ef4c-404b-8a3c-ba936a331266.png)
 
 [e-Tax・作成コーナーヘルプデスクへのお問い合わせTOP10](https://www.e-tax.nta.go.jp/toiawase/qatop10.htm)
