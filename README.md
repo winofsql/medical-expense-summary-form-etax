@@ -1,4 +1,4 @@
-# medical-expense-summary-form
+# medical-expense-summary-form-etax
 
 [事前準備セットアップのダウンロード](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/info-kakutei-mnc.htm)\
  ※ 去年やってますが、バージョンが少しアップしてました
