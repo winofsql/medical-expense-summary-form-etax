@@ -23,8 +23,8 @@ Google Chrome に [マイナポータルアプリ](https://chrome.google.com/web
 
 ### [令和４年分のスマホ申告に関するマニュアル等](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tebiki/2022/kisairei/sp/index.htm)
 
-## [パソコンとスマホでe-Tax！　マイナンバーカードをスマホで読み取り](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/etax-rules.htm)\
-![image](https://user-images.githubusercontent.com/1501327/151666070-8f259032-42f6-46c8-8055-39b16e2e6ff9.png)
+## [パソコンとスマホでe-Tax！　マイナンバーカードをスマホで読み取り](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/etax-rules.htm)
+![image](https://user-images.githubusercontent.com/1501327/220509003-86ef9669-973e-45c7-aca2-025941a53580.png)
 
 # 医療費集計フォーム
 
