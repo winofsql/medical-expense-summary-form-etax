@@ -18,7 +18,8 @@ Google Chrome に [マイナポータルアプリ](https://chrome.google.com/web
 [医療費集計フォームのダウンロードはこちらの右サイドをクリック](https://www.keisan.nta.go.jp/kyoutu/ky/sm/top)\
 ![image](https://user-images.githubusercontent.com/1501327/220506854-3a286a16-7fff-4e70-8413-2b9a9414bc62.png)
 
-[令和４年分 確定申告特集 / 医療費集計フォームのダウンロード｜令和4年分 確定申告特集（本番編）](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/iryouhi-download.htm)
+[令和４年分 確定申告特集 / 医療費集計フォームのダウンロード｜令和4年分 確定申告特集（本番編）](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/iryouhi-download.htm)\
+![image](https://user-images.githubusercontent.com/1501327/220507881-dd9641b7-c225-4f55-ae46-26da31fea2d6.png)
 
 [令和３年分のスマホ申告に関する手引き等](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tebiki/2021/kisairei/sp/index.htm)
 
