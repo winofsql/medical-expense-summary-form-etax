@@ -11,6 +11,12 @@ Google Chrome に [マイナポータルアプリ](https://chrome.google.com/web
 
 [e-Tax・作成コーナーヘルプデスクへのお問い合わせTOP10](https://www.e-tax.nta.go.jp/toiawase/qatop10.htm)
 
+### Q : 医療費通知情報は家族分も閲覧できますか。
+### A : 家族分を閲覧するためには、マイナポータルにおいて、本人と家族の方の間で代理人設定をする必要があります（家族の方もマイナンバーカードを取得している必要があります。）。代理人設定については、詳しくはこちら
+【 https://img.myna.go.jp/manual/03-07/0116.html 】
+をご覧ください。
+
+
 [医療費集計フォームのダウンロードはこちらの右サイドをクリック](https://www.keisan.nta.go.jp/kyoutu/ky/sm/top)\
 ![image](https://user-images.githubusercontent.com/1501327/220506854-3a286a16-7fff-4e70-8413-2b9a9414bc62.png)
 
