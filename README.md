@@ -1,4 +1,4 @@
-# medical-expense-summary-form-etax
+# 令和４年分確定申告( 医療費控除 ) : ２０２２年分
 
 ## 事前準備(インストール)がされていない場合は以下のように明確に表示されます
 ![image](https://user-images.githubusercontent.com/1501327/220514640-f0606cc0-7bfc-4a2a-adbf-132347251d6a.png)
