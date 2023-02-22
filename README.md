@@ -21,7 +21,7 @@ Google Chrome に [マイナポータルアプリ](https://chrome.google.com/web
 [令和４年分 確定申告特集 / 医療費集計フォームのダウンロード｜令和4年分 確定申告特集（本番編）](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/iryouhi-download.htm)\
 ![image](https://user-images.githubusercontent.com/1501327/220507881-dd9641b7-c225-4f55-ae46-26da31fea2d6.png)
 
-[令和４年分のスマホ申告に関するマニュアル等](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tebiki/2021/kisairei/sp/index.htm)
+[令和４年分のスマホ申告に関するマニュアル等](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tebiki/2022/kisairei/sp/index.htm)
 
 ## [パソコンとスマホでe-Tax！　マイナンバーカードをスマホで読み取り](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/info-etax.htm)
 
