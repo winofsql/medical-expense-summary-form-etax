@@ -5,6 +5,7 @@
 ![image](https://user-images.githubusercontent.com/1501327/220509380-78755113-92e4-49df-8370-b96ac50c4887.png)
 
 ### [確定申告特集](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/)
+![image](https://user-images.githubusercontent.com/1501327/220509588-00ce9791-758f-428d-87d9-2f3ba44f4919.png)
 
 ### [国税庁 確定申告書等作成コーナー](https://www.keisan.nta.go.jp/kyoutu/ky/sm/top)
 
