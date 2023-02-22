@@ -11,10 +11,8 @@ Google Chrome に [マイナポータルアプリ](https://chrome.google.com/web
 
 [e-Tax・作成コーナーヘルプデスクへのお問い合わせTOP10](https://www.e-tax.nta.go.jp/toiawase/qatop10.htm)
 
-[医療費集計フォームのダウンロード](https://www.keisan.nta.go.jp/r3/syotoku/img/template/iryouhi_form_v3.xlsx)\
-[医療費集計フォームのダウンロード](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/iryouhi_form_v3.xlsx)
-
-上記二つは違うパスですが、FC /B の結果【FC: 相違点は検出されませんでした】
+[医療費集計フォームのダウンロードはこちらの右サイドをクリック](https://www.keisan.nta.go.jp/kyoutu/ky/sm/top)\
+![image](https://user-images.githubusercontent.com/1501327/220506854-3a286a16-7fff-4e70-8413-2b9a9414bc62.png)
 
 [令和3年分 確定申告に関する情報の総合窓口 確定申告特集](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/iryouhi-download.htm)
 
