@@ -1,6 +1,8 @@
 # medical-expense-summary-form-etax
 
 ### [マイナンバーカード利用の流れ(3ページに事前準備セットアップの説明)](https://www.nta.go.jp/taxes/shiraberu/shinkoku/smart_shinkoku/pdf/mnc-start.pdf)
+![image](https://user-images.githubusercontent.com/1501327/220509279-6f0b3447-4f4e-4727-9a46-0b4d48decad4.png)
+![image](https://user-images.githubusercontent.com/1501327/220509319-a5adb3be-75b2-47e7-b033-8a95b1acb6db.png)
 
 ### [確定申告特集](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/)
 
