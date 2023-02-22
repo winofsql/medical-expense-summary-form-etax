@@ -23,7 +23,7 @@ Google Chrome に [マイナポータルアプリ](https://chrome.google.com/web
 
 ### [令和４年分のスマホ申告に関するマニュアル等](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tebiki/2022/kisairei/sp/index.htm)
 
-## [パソコンとスマホでe-Tax！　マイナンバーカードをスマホで読み取り](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/info-etax.htm)
+## [パソコンとスマホでe-Tax！　マイナンバーカードをスマホで読み取り](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/etax-rules.htm)
 
 令和3年分確定申告（令和4年1月～）から、パソコンで申告書を作成される方も、\
 スマホのアプリ（マイナポータルアプリ）でパソコン上に表示された２次元バーコード（QRコード）\
