@@ -1,5 +1,8 @@
 # medical-expense-summary-form-etax
 
+## 事前準備(インストール)がされていない場合は以下のように明確に表示されます
+![image](https://user-images.githubusercontent.com/1501327/220514640-f0606cc0-7bfc-4a2a-adbf-132347251d6a.png)
+
 ## [確定申告特集](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/)
 ![image](https://user-images.githubusercontent.com/1501327/220509588-00ce9791-758f-428d-87d9-2f3ba44f4919.png)
 
