@@ -1,13 +1,13 @@
 # medical-expense-summary-form-etax
 
-## [マイナンバーカード利用の流れ(3ページに事前準備セットアップの説明)](https://www.nta.go.jp/taxes/shiraberu/shinkoku/smart_shinkoku/pdf/mnc-start.pdf)
+# [マイナンバーカード利用の流れ(3ページに事前準備セットアップの説明)](https://www.nta.go.jp/taxes/shiraberu/shinkoku/smart_shinkoku/pdf/mnc-start.pdf)
 ![image](https://user-images.githubusercontent.com/1501327/220509279-6f0b3447-4f4e-4727-9a46-0b4d48decad4.png)\
 ![image](https://user-images.githubusercontent.com/1501327/220509380-78755113-92e4-49df-8370-b96ac50c4887.png)
 
-## [確定申告特集](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/)
+# [確定申告特集](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/)
 ![image](https://user-images.githubusercontent.com/1501327/220509588-00ce9791-758f-428d-87d9-2f3ba44f4919.png)
 
-## [国税庁 確定申告書等作成コーナー](https://www.keisan.nta.go.jp/kyoutu/ky/sm/top)
+# [国税庁 確定申告書等作成コーナー](https://www.keisan.nta.go.jp/kyoutu/ky/sm/top)
 ![image](https://user-images.githubusercontent.com/1501327/220509802-1a78467d-6e00-4ce1-8257-8c429abc369b.png)
 
 Google Chrome に [マイナポータルアプリ](https://chrome.google.com/webstore/detail/%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%ABap/fjjibalalngebiaophebgkkohaaggphf?hl=ja)\
@@ -25,9 +25,9 @@ Google Chrome に [マイナポータルアプリ](https://chrome.google.com/web
 [令和４年分 確定申告特集 / 医療費集計フォームのダウンロード｜令和4年分 確定申告特集（本番編）](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/iryouhi-download.htm)\
 ![image](https://user-images.githubusercontent.com/1501327/220507881-dd9641b7-c225-4f55-ae46-26da31fea2d6.png)
 
-### [令和４年分のスマホ申告に関するマニュアル等](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tebiki/2022/kisairei/sp/index.htm)
+# [令和４年分のスマホ申告に関するマニュアル等](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tebiki/2022/kisairei/sp/index.htm)
 
-## [パソコンとスマホでe-Tax！　マイナンバーカードをスマホで読み取り](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/etax-rules.htm)
+# [パソコンとスマホでe-Tax！　マイナンバーカードをスマホで読み取り](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/etax-rules.htm)
 ![image](https://user-images.githubusercontent.com/1501327/220509003-86ef9669-973e-45c7-aca2-025941a53580.png)
 
 # 医療費集計フォーム
