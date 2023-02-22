@@ -1,9 +1,12 @@
 # medical-expense-summary-form-etax
 
-[事前準備セットアップのダウンロード](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/info-kakutei-mnc.htm)\
- ※ 去年やってますが、バージョンが少しアップしてました
+[マイナンバーカード利用の流れ(3ページに事前準備セットアップの説明)](https://www.nta.go.jp/taxes/shiraberu/shinkoku/smart_shinkoku/pdf/mnc-start.pdf)
 
-去年より比べて、Google Chrome に [マイナポータルアプリ](https://chrome.google.com/webstore/detail/%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%ABap/fjjibalalngebiaophebgkkohaaggphf?hl=ja) が必要でした
+[確定申告特集](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/)
+
+[国税庁 確定申告書等作成コーナー](https://www.keisan.nta.go.jp/kyoutu/ky/sm/top)
+
+Google Chrome に [マイナポータルアプリ](https://chrome.google.com/webstore/detail/%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%ABap/fjjibalalngebiaophebgkkohaaggphf?hl=ja)
 ![image](https://user-images.githubusercontent.com/1501327/151697302-03ba016b-ef4c-404b-8a3c-ba936a331266.png)
 
 [e-Tax・作成コーナーヘルプデスクへのお問い合わせTOP10](https://www.e-tax.nta.go.jp/toiawase/qatop10.htm)
