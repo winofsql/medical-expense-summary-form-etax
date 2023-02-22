@@ -31,7 +31,7 @@ Google Chrome に [マイナポータルアプリ](https://chrome.google.com/web
 
 ## 医療費集計フォーム
 
-![image](https://user-images.githubusercontent.com/1501327/151666242-2e6d1443-eb75-4512-88f5-61ef6e57afcb.png)
+![image](https://user-images.githubusercontent.com/1501327/220515652-9127461e-8eb3-49d6-aaab-d8f98a538ca9.png)
 
 - データは995件まで入力が可能です。								
 - データを入力後、所得税の確定申告等作成コーナーの医療費控除の入力画面で読み込むことで、入力した内容が反映されます。
